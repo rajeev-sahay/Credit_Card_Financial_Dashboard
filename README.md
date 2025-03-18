@@ -1,6 +1,9 @@
 PROJECT NAME= 'CREDIT CARD FINANCIAL DASHBOARD'
+
 PROBLEM STATEMENT= To Develop an interactive dashboard using credit card transaction data and customer data to provide real time insights and analyse key performance metrics and trends.
+
 TOOL= MICROSOFT POWER BI
+
 Project Insights Overview=
 a)Overall revenue is 57 Million.
 b)Total Interest Earned is 8 Million.
