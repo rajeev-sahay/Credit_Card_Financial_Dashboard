@@ -4,7 +4,7 @@ PROBLEM STATEMENT= To Develop an interactive dashboard using credit card transac
 
 TOOL= MICROSOFT POWER BI
 
-Project Insights Overview=
+PROJECT INSIGHTS OVERVIEW=
 a)Overall revenue is 57 Million.
 b)Total Interest Earned is 8 Million.
 c)Total Transaction amount is 46 Million.
